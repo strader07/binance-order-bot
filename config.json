@@ -1,0 +1,6 @@
+{
+	"bot_token": "1044197739:AAGPp4vf7tSwaeUmFTCWfmdV3wXN8xyFVJs",
+	"spreadsheet_id": "1RxC0ZnbV980lrmq1627DMMRJnzeNPDFNLLDss-rEQn8",
+	"sheets_secrets_path": "secrets/AItradeingbot-888ef44910a4.json",
+	"binance_secrets_path": "secrets/binance.json"
+}

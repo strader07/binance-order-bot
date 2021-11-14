@@ -1,0 +1,6 @@
+gspread~=3.6.0
+bottle~=0.12.18
+python-binance~=0.7.5
+requests~=2.24.0
+pytest~=6.0.1
+mockito~=1.2.1
